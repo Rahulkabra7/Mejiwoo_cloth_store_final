@@ -1,0 +1,43 @@
+.card{
+    /* border: 0.5px solid black; */
+    border-radius: 8px;
+    padding: 10px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+}
+.image{
+    width: 300px;
+    height: 350px;
+    object-fit: cover;
+}
+/* .card_img{
+    background-color: lightgray;
+    width: 200px;
+    height: 150px;
+} */
+
+.card h3{
+    font-size: large;
+    font-weight: 500;
+    color: gray;
+}
+.Buy_Now_btn{
+    height: 35px;
+    width: 140px;
+    padding: 5px;
+    border-radius: 15px;
+    border: 0px;
+    font-size: large;
+    font-weight: 500;
+    background-color: lightgray;
+}
+.Buy_Now_btn:hover{
+    padding: 5px;
+    border-radius: 15px;
+    border: 1px;
+    font-size: large;
+    font-weight: 500;
+    background-color: darkkhaki;
+    color: white;
+}

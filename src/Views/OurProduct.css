@@ -1,0 +1,42 @@
+.nav{
+
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.productsContainer{
+    display: flex;
+    padding: 20px 10px;
+    justify-content: center;
+    /* gap: 20px; */
+    /* padding-left: 20px; */
+    margin: auto;
+    flex-wrap: wrap;
+    width: 85%;
+    background-color: #F7F6F0;
+}
+
+.nav button{
+    margin-top: 50px;
+    margin-left: 10px;
+    height: 40px;
+    width: 100px;
+    padding: 5px;
+    border-radius: 15px;
+    border: 0px;
+    font-size: large;
+    font-weight: 500;
+    background-color: rgb(230, 228, 190);
+}
+.nav button:hover{
+    height: 40px;
+    width: 100px;
+    padding: 5px;
+    border-radius: 15px;
+    border: 1px;
+    font-size: large;
+    font-weight: 500;
+    background-color: darkkhaki;
+    color: white;
+}

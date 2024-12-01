@@ -1,0 +1,46 @@
+.Season_Collections_main_div{
+    margin-top: 150px;
+}
+.Season_Collections_main_div h1{
+    display: flex;
+    justify-content: center;
+}
+.Season_Collections_card_div{
+    display: flex;
+    justify-content: space-around;
+    margin: 40px 200px 0px 200px;
+}
+.sea_coll_img{
+    width: 400px;
+    height: 500px;
+    border-radius: 5px;
+}
+/* .sea_coll_img:hover{
+    scale: 20%;
+} */
+.sea_coll_img_div h1{
+    font-weight: 500;
+    font-size: 30px;
+    margin:10px 0px 15px 0px
+}
+.sea_coll_img_div button{
+    margin-left: 150px;
+    width: 100px;
+    height: 40px;
+    border-radius: 18px;
+    border: none;
+    font-size: larger;
+    font-weight: 500;
+    background-color: #F7F6F0;
+}
+
+.sea_coll_img_div button:hover{
+    margin-left: 150px;
+    width: 100px;
+    height: 40px;
+    border-radius: 18px;
+    border: none;
+    font-size: larger;
+    font-weight: 500;
+    background-color: #e8e3c7;
+}

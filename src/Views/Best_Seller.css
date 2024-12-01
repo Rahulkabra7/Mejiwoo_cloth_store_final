@@ -1,0 +1,32 @@
+.Best_Seller_main_div{
+    margin-top: 50px;
+}
+
+.Best_Seller_main_div h1{
+    display: flex;
+    justify-content: center;
+}
+.Best_Seller_card_div{
+    display: flex;
+    justify-content: space-around;
+    margin: 40px 200px 0px 200px;
+    overflow-y: hidden;
+    scrollbar-width: none;
+}
+.Best_Seller_card{
+    width: 400px;
+    height: 600px;
+    padding: 10px 19px 10px 10px;
+}
+.Best_Seller_name{
+    font-size: larger;
+    font-weight: 500;
+    padding-left: 100px;
+    margin-bottom: 0px;
+}
+.Best_Seller_price{
+    font-size: large;
+    font-weight: 400;
+    padding-left: 135px;
+    margin-top: 5px;
+}

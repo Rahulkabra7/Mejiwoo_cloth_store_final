@@ -1,0 +1,30 @@
+.mian_div h1{
+    margin-top: 20px;
+    margin-left: 45%;
+}
+.card_mian_div{
+    display: flex;
+    margin: 10px 250px;
+    padding: 10px;
+    /* overflow: hidden; */
+    overflow-y: hidden;
+}
+.card_div{
+    margin: 10px;
+    padding: 20px;
+    background-color: #F7F6F0;
+    border-radius: 12px;
+}
+.card_div h3{
+    font-size: large;
+    font-weight: 400;
+    text-align: center;
+}
+.Card_name{
+    text-align: center;
+}
+.card_div p{
+    text-align: justify;
+    margin: 5px;
+    padding: 5px;
+}

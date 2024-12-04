@@ -43,7 +43,7 @@
 /* Floating product list container */
 .floating_product_div {
     position: absolute;
-    top: 70px; 
+    top: 70px;
     left: 50%;
     transform: translateX(-50%);
     background-color: rgba(255, 255, 255, 0.9);
@@ -55,7 +55,7 @@
     padding: 10px;
     border-radius: 8px;
     overflow-y: auto;
-    max-height: 400px; 
+    max-height: 400px;
     width: 90%;
     scrollbar-width: none;
 }

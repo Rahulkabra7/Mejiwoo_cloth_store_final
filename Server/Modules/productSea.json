@@ -1,0 +1,360 @@
+[
+    {
+      "id": 1,
+      "name": "Casual Shirt",
+      "category": "top",
+      "price": "300",
+      "description": "A comfortable casual shirt for everyday wear.",
+      "image": "https://th.bing.com/th/id/OIP.ZgNaloXT1dX0Llbn93BcYQHaJo?w=208&h=271&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+    },
+    {
+      "id": 2,
+      "name": "Formal Shirt",
+      "category": "top",
+      "price": "500",
+      "description": "A formal shirt perfect for business meetings.",
+      "image": "https://th.bing.com/th/id/OIP.F3zD1hE_AYntin9WUqAOtgAAAA?w=208&h=305&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+    },
+    {
+      "id": 3,
+      "name": "Casual Shirt",
+      "category": "top",
+      "price": "300",
+      "description": "A stylish casual shirt.",
+      "image": "https://th.bing.com/th?id=OPAC.7p%2fRAcgTs8ycPA474C474&w=178&h=231&o=5&dpr=1.3&pid=1.7"
+    },
+    {
+      "id": 4,
+      "name": "Formal Shirt",
+      "category": "top",
+      "price": "500",
+      "description": "A crisp formal shirt for professional settings.",
+      "image": "https://th.bing.com/th/id/OPAC.jaW0NQ9gb1103g474C474?w=178&h=231&o=5&dpr=1.3&pid=1.7"
+    },
+    {
+        "id": 5,
+        "name": "Casual Shirt",
+        "category": "top",
+        "price": "700",
+        "description": "A comfortable casual shirt for everyday wear.",
+        "image": "https://th.bing.com/th/id/OIP.zU1dEsir6dAmUmQGfNtdxgHaJC?w=186&h=227&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+      {
+        "id": 6,
+        "name": "Casual Shirt",
+        "category": "top",
+        "price": "500",
+        "description": "A comfortable casual shirt for everyday wear.",
+        "image": "https://th.bing.com/th/id/OIP.jzvFwxSkZIyX2uiA13GQHgHaLH?w=186&h=279&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+      {
+        "id": 7,
+        "name": "Casual Shirt",
+        "category": "top",
+        "price": "400",
+        "description": "A comfortable casual shirt for everyday wear.",
+        "image": "https://th.bing.com/th/id/OIP.TV-zg7tKSp36ix4Jx-_cNAHaJ4?w=186&h=248&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+      {
+        "id": 8,
+        "name": "Casual Shirt",
+        "category": "top",
+        "price": "399",
+        "description": "A comfortable casual shirt for everyday wear.",
+        "image": "https://th.bing.com/th/id/OIP.gqRMATnlzG7rlSV9qN7H1AHaKR?w=186&h=258&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+    {
+      "id": 9,
+      "name": "Jeans",
+      "category": "bottom",
+      "price": "300",
+      "description": "Comfortable jeans for casual outings.",
+      "image": "https://th.bing.com/th/id/OIP.4jILEt4ALz9hlVMienEW_wHaLz?w=186&h=297&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+    },
+    {
+      "id": 10,
+      "name": "Chinos",
+      "category": "bottom",
+      "price": "499",
+      "description": "Chinos for a smart casual look.",
+      "image": "https://th.bing.com/th/id/OIP.dYeaGfy2-wVOKx_3iiipawHaL0?pid=ImgDet&w=197&h=314&c=7&dpr=1.3"
+    },
+    {
+      "id": 11,
+      "name": "Cargo",
+      "category": "bottom",
+      "price": "599",
+      "description": "Practical cargo pants with multiple pockets.",
+      "image": "https://th.bing.com/th/id/OIP.A-l-kldPY-g2FwFTE0_VrgHaL0?pid=ImgDet&w=197&h=314&c=7&dpr=1.3"
+    },
+    {
+      "id": 12,
+      "name": "Cargo",
+      "category": "bottom",
+      "price": "399",
+      "description": "Comfortable cargo pants with a relaxed fit.",
+      "image": "https://th.bing.com/th/id/OIP.C1NIFQqA8RLc---Efn8R0gHaHa?w=186&h=186&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+    },
+    {
+        "id": 13,
+        "name": "Cargo",
+        "category": "bottom",
+        "price": "399",
+        "description": "Comfortable cargo pants with a relaxed fit.",
+        "image": "https://th.bing.com/th/id/OIP.fjIAM4ZbgZgtE960kPtgBwHaHa?pid=ImgDet&w=197&h=197&c=7&dpr=1.3"
+      },
+      {
+        "id": 14,
+        "name": "Cargo",
+        "category": "bottom",
+        "price": "399",
+        "description": "Comfortable cargo pants with a relaxed fit.",
+        "image": "https://th.bing.com/th/id/OIP.vZp7ZPnk5PKZ-mftppX2XQHaJ4?w=186&h=248&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },{
+        "id": 15,
+        "name": "Cargo",
+        "category": "bottom",
+        "price": "399",
+        "description": "Comfortable cargo pants with a relaxed fit.",
+        "image": "https://th.bing.com/th/id/OIP.rbxWjIIm6TITNN1IF9S-PgHaHa?w=186&h=186&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },{
+        "id": 16,
+        "name": "Cargo",
+        "category": "bottom",
+        "price": "399",
+        "description": "Comfortable cargo pants with a relaxed fit.",
+        "image": "https://th.bing.com/th/id/OIP.FY9jVKlyIBiIcOemqF_w_gHaJ4?w=186&h=248&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+    {
+      "id": 17,
+      "name": "Sleeveless Drawstring white dress",
+      "category": "Dress",
+      "price": "599",
+      "description": "A breezy, sleeveless white dress with drawstring.",
+      "image": "https://th.bing.com/th/id/OIP.JMLwkzr8hLU6ANfYV1wKyQHaJ3?pid=ImgDet&w=165&h=218&c=7&dpr=13"
+    },
+    {
+      "id": 18,
+      "name": "Women Midi Dress",
+      "category": "Dress",
+      "price": "699",
+      "description": "A stylish midi dress perfect for evening wear.",
+      "image": "https://th.bing.com/th/id/OPAC.lt2ZZL0dr6ijOA474C474?w=178&h=231&o=5&dpr=1.3&pid=1.7"
+    },
+    {
+        "id": 19,
+        "name": "Western Dress",
+        "category": "Dress",
+        "price": "599",
+        "description": "A breezy, sleeveless white dress with drawstring.",
+        "image": "https://th.bing.com/th/id/OPAC.D7uOZEcJanEHzg474C474?w=178&h=231&o=5&dpr=1.3&pid=1.7"
+      },
+      {
+        "id": 20,
+        "name": "Women Fashion Fit",
+        "category": "Dress",
+        "price": "699",
+        "description": "A stylish midi dress perfect for evening wear.",
+        "image": "https://th.bing.com/th/id/OIP.kOII9rJKDb-MlIQgFg1j5wHaHa?w=186&h=186&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+      {
+        "id": 21,
+        "name": "Western Dress",
+        "category": "Dress",
+        "price": "599",
+        "description": "A breezy, sleeveless white dress with drawstring.",
+        "image": "https://s2.r29static.com/bin/shop/15d/x,80/2107814/image.jpg"
+      },
+      {
+        "id": 22,
+        "name": "Women A-line Dress",
+        "category": "Dress",
+        "price": "599",
+        "description": "A stylish midi dress perfect for evening wear.",
+        "image": "https://th.bing.com/th/id/OIP.y2n4WUZrotCPfoS1PUvBRQHaLG?pid=ImgDet&w=165&h=247&c=7&dpr=1.3"
+      },
+      {
+        "id": 23,
+        "name": "Western Dress",
+        "category": "Dress",
+        "price": "799",
+        "description": "A breezy, sleeveless white dress with drawstring.",
+        "image": "https://th.bing.com/th/id/OIP.JMLwkzr8hLU6ANfYV1wKyQHaJ3?pid=ImgDet&w=165&h=218&c=7&dpr=1.3"
+      },
+      {
+        "id": 24,
+        "name": "Length Dress",
+        "category": "Dress",
+        "price": "699",
+        "description": "A stylish midi dress perfect for evening wear.",
+        "image": "https://th.bing.com/th/id/OIP.ERP1Qbc9PSPYLVB7l4JLtAAAAA?pid=ImgDet&w=165&h=238&c=7&dpr=1.3"
+      },
+      {
+        "id": 25,
+        "name": "Kurta Set",
+        "category": "kurta",
+        "price": 700,
+        "image": "https://th.bing.com/th/id/OIP.R72ym1k-W7pXiOML89_o0QHaJ4?w=186&h=248&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+      {
+        "id": 26,
+        "name": "Straight Kurta",
+        "category": "kurta",
+        "price": 900,
+        "image": "https://th.bing.com/th/id/OIP.JTNsjUzp3foRptgWVofEMgHaJ4?w=186&h=248&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+      {
+        "id": 27,
+        "name": "Cotton Kurta",
+        "category": "kurta",
+        "price": 700,
+        "image": "https://th.bing.com/th/id/OIP.l3JNXGtb5El9UvGF9ps6XwHaJ4?w=186&h=248&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+      {
+        "id": 28,
+        "name": "Slit Kurta",
+        "category": "kurta",
+        "price": 900,
+        "image": "https://th.bing.com/th/id/OIP.ZFLVGJuTuEJ5KEh2d47iFwHaJ4?w=186&h=248&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+      {
+        "id": 29,
+        "name": "A-Line Kurta",
+        "category": "kurta",
+        "price": 700,
+        "image": "https://th.bing.com/th/id/OIP.YOfT12HBayKT3DXcEALtoQHaJ4?w=186&h=248&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+      {
+        "id": 30,
+        "name": "Design Kurta",
+        "category": "kurta",
+        "price": 900,
+        "image": "https://th.bing.com/th/id/OIP.MoCV3wd3_ajQzP3WIE6EvAHaJz?w=186&h=246&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+      {
+        "id": 31,
+        "name": "Straight Kurta",
+        "category": "kurta",
+        "price": 700,
+        "image": "https://th.bing.com/th/id/OIP.HI1IQEIa3J53Ep8XyHQGyQHaJ4?w=186&h=248&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+      {
+        "id": 32,
+        "name": "Kurta Set",
+        "category": "kurta",
+        "price": 900,
+        "image": "https://th.bing.com/th/id/OIP.BH3QrArIItM5k6a1CC_8_AHaJ4?w=186&h=248&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+      {
+        "id": 33,
+        "name": "OuterWear",
+        "category": "outer",
+        "price": 200,
+        "image": "https://th.bing.com/th/id/OIP.45faP7iuN5ImmpJOniKt4QHaJQ?w=186&h=233&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+      {
+        "id": 34,
+        "name": "Coats",
+        "category": "outer",
+        "price": 1200,
+        "image": "https://th.bing.com/th/id/OIP.srWBz8mwvaGswozAPVzztQHaKj?w=186&h=265&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+      {
+        "id": 35,
+        "name": "Jacket",
+        "category": "outer",
+        "price": 200,
+        "image": "https://th.bing.com/th/id/OIP.54jgw4leNy2BVyuuF-hMsAHaJ4?w=186&h=248&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+      {
+        "id": 36,
+        "name": "Coats",
+        "category": "outer",
+        "price": 1200,
+        "image": "https://th.bing.com/th/id/OIP.4ccGd0VzAbiOAvJKcUvHaQAAAA?w=186&h=279&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+      {
+        "id": 37,
+        "name": "Bomber",
+        "category": "outer",
+        "price": 200,
+        "image": "https://th.bing.com/th/id/OIP.OErq95uQmAivLvkPK8cbHAAAAA?w=186&h=248&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+      {
+        "id": 38,
+        "name": "Jacket",
+        "category": "outer",
+        "price": 1200,
+        "image": "https://th.bing.com/th/id/OIP.x3GYw3Qpk0VTCw2SVa_iOwHaLH?w=186&h=279&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+      {
+        "id": 39,
+        "name": "Bomber",
+        "category": "outer",
+        "price": 200,
+        "image": "https://th.bing.com/th/id/OIP.ZQfvqs79OyeGZdf4CsrJagHaJQ?w=186&h=233&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+      {
+        "id": 40,
+        "name": "Jacket",
+        "category": "outer",
+        "price": 1200,
+        "image": "https://th.bing.com/th/id/OIP.vAQWS29xumQvSNnDgojISQHaJC?w=186&h=227&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+      {
+      "id": 41,
+      "name": "Knit Wool",
+      "price": 200,
+      "category": "knit",
+      "image": "https://th.bing.com/th/id/OIP.8ey-8qHgANTtoOj34Xi3VQHaIY?w=186&h=210&c=7&r=0&o=5&dpr=1.3&pid=1.7" 
+    },
+    {
+      "id": 42,
+      "name": "Sweater",
+      "price": 1200,
+      "category": "knit",
+      "image": "https://th.bing.com/th/id/OIP.-XSHWNVGqzx2vRel1XrO0gHaIY?w=186&h=210&c=7&r=0&o=5&dpr=1.3&pid=1.7" 
+    },
+    {
+      "id": 43,
+      "name": "KnitWear",
+      "price": 200,
+      "category": "knit",
+      "image": "https://th.bing.com/th/id/OIP.7WmKYgJMMFhqQWMPvnGRYwAAAA?w=186&h=242&c=7&r=0&o=5&dpr=1.3&pid=1.7" 
+    },
+    {
+      "id": 44,
+      "name": "Knit jumper",
+      "price": 1200,
+      "category": "knit",
+      "image": "https://th.bing.com/th/id/OIP.yyHdZE4arEv1Qgo40hoJVgHaJ4?w=186&h=248&c=7&r=0&o=5&dpr=1.3&pid=1.7" 
+    },
+    {
+      "id": 45,
+      "name": "KnitWear",
+      "price": 200,
+      "category": "knit",
+      "image": "https://th.bing.com/th/id/OIP.jH7Mhaloe__ZcYNyhXyADAHaLH?w=186&h=279&c=7&r=0&o=5&dpr=1.3&pid=1.7" 
+    },
+    {
+      "id": 46,
+      "name": "Knit Wool",
+      "price": 1200,
+      "category": "knit",
+      "image": "https://th.bing.com/th/id/OIP.lqzTC34ETsxccl6q9QWZmwHaJ4?w=186&h=248&c=7&r=0&o=5&dpr=1.3&pid=1.7" 
+    },
+    {
+      "id": 47,
+      "name": "Knit Wool",
+      "price": 200,
+      "category": "knit",
+      "image": "https://th.bing.com/th/id/OIP.UI05849skcCus8EoxuCTCQHaLI?w=186&h=280&c=7&r=0&o=5&dpr=1.3&pid=1.7" 
+    },
+    {
+      "id": 48,
+      "name": "Knit Jacket",
+      "price": 1200,
+      "category": "knit",
+      "image": "https://th.bing.com/th/id/OIP.XeKjf7CJxDgHqnXvZ14MPgHaJ4?w=186&h=248&c=7&r=0&o=5&dpr=1.3&pid=1.7" 
+    }
+  ]
